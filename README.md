@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamdouh Omar</h1>
-<h3 align="center">A passionate data scientist from Egypt</h3>
+<h3 align="center">Junior Software Tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamdouh-abdulghaffar&label=Profile%20views&color=0e75b6&style=flat" alt="mamdouh-abdulghaffar" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mamdouh-abdulghaffar?tab=repositories](https://github.com/mamdouh-abdulghaffar?tab=repositories)
 
-- 💬 Ask me about **python, data analysis and machine learning**
+- 💬 Ask me about **Manual Testing and Agile methodologies**
 
 - 📫 How to reach me **mamdouhabdelghafar0@gmail.com**
 
